@@ -14,7 +14,7 @@ import json
 
 cookies = os.getenv("wk05")
 ua = ""
-num = 60  # 循环参数
+num = 30  # 循环参数
 
 
 class DY:
