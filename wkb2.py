@@ -1,7 +1,7 @@
 """
 # -*- coding:utf-8 -*- 
   cron: 0 1,3,5,7 * * *
-  new Env('WKB02); 
+  new Env('wkb2); 
 """
 
 import os
